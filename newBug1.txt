@@ -1,2 +1,3 @@
 bug1 changes
-changes on master
+changes on masterchange 2 on branch bug1
+change 2 on master
